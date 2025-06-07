@@ -7,7 +7,7 @@
 <body class="bg-light">
 <div class="container mt-5">
     <div class="text-center">
-        <h1 class="mb-4">Welcome to MyBank</h1>
+        <h1 class="mb-4">Welcome to Alexa edge bank</h1>
         <a href="account" class="btn btn-primary btn-lg">View Account Balance</a>
     </div>
 </div>
@@ -27,7 +27,7 @@
     <div class="card text-center">
         <div class="card-header">Account Balance</div>
         <div class="card-body">
-            <h5 class="card-title">Your Current Balance is:</h5>
+            <h5 class="card-title">Your Current Balance is 1000000000:</h5>
             <p class="card-text display-4">${balance}</p>
             <a href="index.jsp" class="btn btn-secondary">Back</a>
         </div>
